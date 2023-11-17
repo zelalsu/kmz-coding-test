@@ -102,6 +102,7 @@ const styles = StyleSheet.create({
 
   payment: {
     flex: 1,
+    paddingRight: 20,
   },
 });
 
